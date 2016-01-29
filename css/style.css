@@ -5,7 +5,7 @@ div{
 }
 .rosa{
 	background-color: #FF0080;
-	position:static;
+	position:relative;
 	width: 250px;	
 	height: 250px;
 }
@@ -14,16 +14,18 @@ div{
 	background-image: url("http://imgsdown.1mobile.com/group2/M00/D8/B6/S36rZFWeJuOATxT1AAFXesccf8087.jpeg");
 	background-size: 150%;
 	position: static;
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
 .morado{
 	background-image: url("http://png.clipart.me/graphics/previews/183/cartoon-blue-elephants-in-flowers-with-butterflies-seamless-pattern-can-be-used-for-wallpapers-pattern-fills-web-page_183828899.jpg");
 	position: absolute;
-	top: 17px;
-	left: 17px;
-	right: 10px;
-	bottom: 10px;
+	width: 150px;
+	height: 150px;
+	top: 50px;
+	left: 50px;
+	right: 50px;
+	bottom: 50px;
 }
 body{
 	margin: 0px;

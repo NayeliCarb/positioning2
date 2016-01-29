@@ -8,31 +8,32 @@ div{
 	position:static;
 	width: 250px;	
 	height: 250px;
-	
-	
 }
-.morado{
-	background-color: #01DFD7;
+.azul{
+	
+	background-image: url("http://imgsdown.1mobile.com/group2/M00/D8/B6/S36rZFWeJuOATxT1AAFXesccf8087.jpeg");
+	background-size: 150%;
 	position: static;
 	width: 100px;
 	height: 100px;
-
-
-	
-
 }
-.azul{
-	background-color: #8A0868;
+.morado{
+	background-image: url("http://png.clipart.me/graphics/previews/183/cartoon-blue-elephants-in-flowers-with-butterflies-seamless-pattern-can-be-used-for-wallpapers-pattern-fills-web-page_183828899.jpg");
 	position: absolute;
 	top: 17px;
 	left: 17px;
 	right: 10px;
 	bottom: 10px;
-
-	}
+}
 body{
 	margin: 0px;
 	padding: 0px;
 	background-image: url("http://images.alphacoders.com/179/179081.jpg");
 	background-size: 100%;
+}
+
+p{
+	color: white;
+	text-align: center;
+	font-size: 30px;
 }

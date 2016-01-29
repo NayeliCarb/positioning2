@@ -1,0 +1,38 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.rosa{
+	background-color: #FF0080;
+	position:static;
+	width: 250px;	
+	height: 250px;
+	
+	
+}
+.morado{
+	background-color: #01DFD7;
+	position: static;
+	width: 100px;
+	height: 100px;
+
+
+	
+
+}
+.azul{
+	background-color: #8A0868;
+	position: absolute;
+	top: 17px;
+	left: 17px;
+	right: 10px;
+	bottom: 10px;
+
+	}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url("http://images.alphacoders.com/179/179081.jpg");
+	background-size: 100%;
+}
